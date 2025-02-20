@@ -5,7 +5,7 @@ I'm **[Nama Anda]**, a passionate **Frontend Developer**. I love crafting beauti
 ---
 
 ### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mnemovate&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mnemovate&show_icons=true&theme=tokyonight&count_private=true)
 
 ### 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mnemovate&theme=onedark)
