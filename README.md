@@ -1,3 +1,2 @@
-### Hi there! 👋
-
-I'm **Mnemovate**, a passionate **Frontend Developer**. I love crafting beautiful and efficient user interfaces. 🚀
+### Hi! 👋  
+Welcome to **Mnemovate**—where ideas come to life. We empower creativity and innovation through seamless, intuitive, and impactful digital experiences. 🚀
