@@ -1,6 +1,2 @@
 ### Hi!
 Welcome to **Mnemovate**—where ideas come to life. We empower creativity and innovation through seamless, intuitive, and impactful digital experiences.
-1
-2
-3
-4
