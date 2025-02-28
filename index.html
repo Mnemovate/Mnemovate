@@ -4,12 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Music Player</title>
+    <style>
+        /* CSS untuk membuat pemutar musik berada di tengah layar */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            text-align: center;
+        }
+        h2 {
+            font-family: Arial, sans-serif;
+        }
+    </style>
 </head>
 <body>
-    <h2>🎵 Music Player</h2>
-    <audio controls autoplay>
-        <source src="https://cms-public-artifacts.artlist.io/content/music/aac/55750_469457_469457__ANBR_-_Still_Life_-_030221_-_EXT_-_2444_.aac" type="audio/aac">
-        Your browser does not support the audio element.
-    </audio>
+    <div class="container">
+        <h2>🎵 Music Player</h2>
+        <audio controls>
+            <source src="https://cms-public-artifacts.artlist.io/content/music/aac/55750_469457_469457__ANBR_-_Still_Life_-_030221_-_EXT_-_2444_.aac" type="audio/aac">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
 </body>
 </html>
