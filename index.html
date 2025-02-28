@@ -5,37 +5,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Music Player</title>
     <style>
-        /* CSS untuk membuat pemutar musik berada di tengah layar */
+        /* Background halaman */
         body {
+            background-color: #FAF6F3;
+            color: #000000;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #FAF6F3; /* Warna background */
-            color: #000000; /* Warna teks */
-        }
-        .container {
-            text-align: center;
-        }
-        h2 {
+            flex-direction: column;
             font-family: Arial, sans-serif;
         }
-        /* Mengatur warna background audio controls */
-        audio {
+
+        /* Title styling */
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        /* Music player container */
+        .player-container {
             background-color: #FFFFFF;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Audio player styling */
+        audio {
+            background-color: #FFFFFF !important;
             border-radius: 8px;
             padding: 5px;
+            width: 100%;
+        }
+
+        /* Styling untuk kontrol audio di Webkit-based browsers */
+        audio::-webkit-media-controls-panel {
+            background-color: #FFFFFF !important;
+        }
+
+        audio::-webkit-media-controls-play-button,
+        audio::-webkit-media-controls-timeline,
+        audio::-webkit-media-controls-volume-slider {
+            filter: none !important;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h2>🎵 Music Player</h2>
+
+    <h1>🎵 Music Player</h1>
+    
+    <div class="player-container">
         <audio controls>
             <source src="https://cms-public-artifacts.artlist.io/content/music/aac/55750_469457_469457__ANBR_-_Still_Life_-_030221_-_EXT_-_2444_.aac" type="audio/aac">
             Your browser does not support the audio element.
         </audio>
     </div>
+
 </body>
 </html>
