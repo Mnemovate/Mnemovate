@@ -6,14 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mnemovate&label=Visitor&color=blue&style=for-the-badge&abbreviated=true" alt="Mnemovate" />
 </div>
 
-<img align="right" src="https://i.giphy.com/vqxviVfqGAa14SgeiC.webp" width="384" alt="github-cover">
-
-- 👋 Hi there, I'm Dimas Yusuf Qurohman!
-- 🌱 I’m currently learning Web Development and always eager to expand my knowledge.
-- 💬 Ask me about anything, whether it's coding, tech, or just to have a friendly chat! 😄
-- 📫 You can reach me at dimasyusufqurohman@gmail.com.
-- ⚡ Fun fact: I enjoy munching on Potato Snack while coding!
-
 ##
 
 <h3 align="left">Connect with me:</h3>
@@ -33,32 +25,37 @@
 
 <h3 align="left">Tech Stacks:</h3>
 
-### 🛠 Frontend Development  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,materialui,sass,less" height="40" alt="frontend stack" />
-</div>  
+###
 
-### ⚙️ Backend Development  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,redis,nginx" height="40" alt="backend stack" />
-</div>  
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="8" />
+</div>
 
-### 📱 Mobile Development  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" height="40" alt="mobile stack" />
-</div>  
-
-### 🗄️ Database  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,planetscale,supabase" height="40" alt="database stack" />
-</div>  
-
-### ☁️ DevOps & Hosting  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,githubactions" height="40" alt="devops stack" />
-</div>  
-
-### 🛠 Tools & Others  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,regex,notion,stackoverflow" height="40" alt="tools stack" />
-</div>  
+###
