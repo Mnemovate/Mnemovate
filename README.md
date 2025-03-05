@@ -14,7 +14,7 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
 ####
 
 <div align="left">
-  <a href="https://linkedin.com/in/dimmasyusuf" target="_blank">
+  <a href="https://www.linkedin.com/in/nur-saputra-598059253" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -46,15 +46,11 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
   <img width="8" />
@@ -68,12 +64,6 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
@@ -81,22 +71,6 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=less" height="40" alt="less logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
 </div>
 
 ###
