@@ -17,11 +17,42 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   </a>
 </div>
 
-### 🌟 Preview My Apps
+### Preview My Apps
 
-🔗 [Authentication App](https://authentication-production-6169.up.railway.app)
-
-🔗 [AuthSync](https://authsync-production.up.railway.app)
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <a href="https://flutter.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://authsync-production.up.railway.app" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
+          Authsync App
+        </a>
+        <i> </i>
+        <i> </i>
+        <i> - Deployed via Railway</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://laravel.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://authentication-production-6169.up.railway.app" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
+          Authentication App
+        </a>
+        <i> </i>
+        <i> </i>
+        <i> - Deployed via Railway</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ##
 
@@ -59,22 +90,6 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
 </div>
 
 ###
