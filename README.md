@@ -17,6 +17,12 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   </a>
 </div>
 
+### 🌟 Preview My Apps
+
+🔗 [Authentication App](https://authentication-production-6169.up.railway.app)
+
+🔗 [AuthSync](https://authsync-production.up.railway.app)
+
 ##
 
 <h3 align="left">Tech Stacks:</h3>
