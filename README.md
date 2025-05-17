@@ -92,6 +92,8 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
 ###
