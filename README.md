@@ -5,7 +5,7 @@
 </div>
 
 ### Hi!
-Welcome to **Mnemovate**—where ideas come to life. We empower creativity and innovation through seamless, intuitive, and impactful digital experiences.
+Welcome to **Mnemovate**—where ideas come to life. We empower creativity and innovation through seamless, intuitive, and impactful digital experiences-.
 
 <h3 align="left">Connect with me:</h3>
 
