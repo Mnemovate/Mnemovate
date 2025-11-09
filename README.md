@@ -63,6 +63,7 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
 ###
 
 <div align="left">
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
@@ -79,8 +80,6 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
@@ -89,13 +88,8 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="8" />
 </div>
-
-###
-
-## 🎵  [Listen to Music](https://mnemovate.github.io/Mnemovate/)
