@@ -84,8 +84,46 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img width="8" />
 </div>
 
+##
 
+<h3 align="left">GitHub Statistics:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mnemovate&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnemovate&layout=compact&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=Mnemovate&theme=tokyonight" />
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mnemovate&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnemovate&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mnemovate&theme=transparent&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mnemovate&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnemovate&theme=github-compact&hide_border=true" />
+
+</div>
+
+##
+
+<h3 align="left">GitHub Rank (All Time):</h3>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mnemovate&theme=github" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mnemovate&theme=github" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mnemovate&theme=github" />
+
+</div>
