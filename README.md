@@ -90,12 +90,6 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mnemovate&theme=transparent&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Mnemovate&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
 
 </div>
