@@ -93,17 +93,3 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnemovate&theme=github-compact&hide_border=true" />
 
 </div>
-
-##
-
-<h3 align="left">GitHub Rank (All Time):</h3>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mnemovate&theme=github" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mnemovate&theme=github" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mnemovate&theme=github" />
-
-</div>
