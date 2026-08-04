@@ -90,14 +90,6 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mnemovate&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnemovate&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Mnemovate&theme=transparent&hide_border=true" />
 
 </div>
