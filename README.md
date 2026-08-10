@@ -20,12 +20,12 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
         </a>
       </td>
       <td>
-        <a href="https://authsync-production.up.railway.app" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
-          Authsync App
+        <a href="" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
+          -
         </a>
         <i> </i>
         <i> </i>
-        <i> - Deployed via Railway</i>
+        <i> - -</i>
       </td>
     </tr>
     <tr>
@@ -35,12 +35,12 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
         </a>
       </td>
       <td>
-        <a href="https://authentication-production-6169.up.railway.app" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
-          Authentication App
+        <a href="" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
+          -
         </a>
         <i> </i>
         <i> </i>
-        <i> - Deployed via Railway</i>
+        <i> - -</i>
       </td>
     </tr>
   </table>
