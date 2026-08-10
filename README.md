@@ -9,45 +9,6 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
 
 ##
 
-<h3 align="left">Preview My Apps:</h3>
-
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://flutter.dev" target="_blank">
-          <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" />
-        </a>
-      </td>
-      <td>
-        <a href="" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
-          -
-        </a>
-        <i> </i>
-        <i> </i>
-        <i> - -</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://laravel.com" target="_blank">
-          <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
-        </a>
-      </td>
-      <td>
-        <a href="" target="_blank" style="font-size: 18px; font-weight: bold; color: #2563eb; text-decoration: none;">
-          -
-        </a>
-        <i> </i>
-        <i> </i>
-        <i> - -</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-##
-
 <h3 align="left">Tech Stacks:</h3>
 
 ###
