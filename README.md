@@ -43,6 +43,8 @@ Welcome to **Mnemovate**—where ideas come to life. We empower creativity and i
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="firebase logo"  />
+  <img width="8" />
 </div>
 
 ##
