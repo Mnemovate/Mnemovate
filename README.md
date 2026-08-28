@@ -46,13 +46,3 @@ Welcome to **Mnemovate** where ideas come to life. We empower creativity and inn
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="8" />
 </div>
-
-##
-
-<h3 align="left">GitHub Statistics:</h3>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnemovate&theme=github-compact&hide_border=true" />
-
-</div>
