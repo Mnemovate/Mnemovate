@@ -1,9 +1,3 @@
-###
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mnemovate&label=Visitor&color=blue&style=for-the-badge&abbreviated=true" alt="Mnemovate" />
-</div>
-
 ### Hi!
 Welcome to **Mnemovate** where ideas come to life. We empower creativity and innovation through seamless, intuitive, and impactful digital experiences.
 
